@@ -2,7 +2,6 @@ import './App.css';
 import { Box } from '@mui/material';
 import { useEffect } from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Logo from './assets/Logo.svg';
 import SubmitTest from './components/Conclusions/SubmitTest';
 import ExamContainer from './components/ExamForms/ExamContainer';
 import StudentDetailsForm from './components/ExamForms/StudentDetailsForm';
