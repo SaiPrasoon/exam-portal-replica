@@ -6,17 +6,14 @@ import SubmitTest from './components/Conclusions/SubmitTest';
 import ExamContainer from './components/ExamForms/ExamContainer';
 import StudentDetailsForm from './components/ExamForms/StudentDetailsForm';
 import Robot from './components/Robot/robot';
-import { FullScreen, useFullScreenHandle } from 'react-full-screen';
 
 function App() {
-  const handle = useFullScreenHandle();
 
   useEffect(() => {
     // handle.enter();
   }, []);
   return (
     <div className='main-container'>
-      <FullScreen handle={handle}>
         <BrowserRouter>
           <Box
             sx={{
@@ -35,7 +32,6 @@ function App() {
             <Route path='/submit-test' element={<SubmitTest />} />
           </Routes>
         </BrowserRouter>
-      </FullScreen>
     </div>
   );
 }
