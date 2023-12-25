@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6388c5c6.css",
+    "main.js": "/static/js/main.1ff653d4.js",
+    "static/media/hi-robot.gif": "/static/media/hi-robot.a63bd424a3fdc5c775ac.gif",
+    "static/media/student-time-management.svg": "/static/media/student-time-management.7e36f5a6b035854eeec5e44004a18d9a.svg",
+    "index.html": "/index.html",
+    "main.6388c5c6.css.map": "/static/css/main.6388c5c6.css.map",
+    "main.1ff653d4.js.map": "/static/js/main.1ff653d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6388c5c6.css",
+    "static/js/main.1ff653d4.js"
+  ]
+}
