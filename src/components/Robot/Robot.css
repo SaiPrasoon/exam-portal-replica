@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.robot-image {
+    width: 25vw; 
+    height: auto; 
+    margin: 20px;
+}
+
+.start-button{
+    height: 40px;
+    width: 20vw;
+    margin-left: 2%;
+    border-radius: 10px;
+    background-color: rgba(0, 132, 255,0.6);
+    outline: none;
+    border: none;
+    color: white;
+    font-weight: bolder;
+    font-size: 1.2rem;
+    padding: 10px;
+}
+
+.start-button:hover{
+    cursor: pointer;
+    background-color: rgb(0, 132, 255);
+}

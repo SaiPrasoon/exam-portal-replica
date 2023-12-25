@@ -1,0 +1,11 @@
+const ANSWER_TYPES = {
+  TEXT: 'TEXT',
+  RADIO: 'RADIO',
+};
+
+const SUBMIT_STATUS_TYPES = {
+  SUCCESS: 'SUCCESS',
+  FAILED: 'FAILED',
+};
+
+export { ANSWER_TYPES, SUBMIT_STATUS_TYPES };
