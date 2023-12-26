@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/exam-portal-replica/static/css/main.6388c5c6.css",
-    "main.js": "/exam-portal-replica/static/js/main.43d3fd7b.js",
+    "main.js": "/exam-portal-replica/static/js/main.422479cd.js",
     "static/media/hi-robot.gif": "/exam-portal-replica/static/media/hi-robot.a63bd424a3fdc5c775ac.gif",
     "static/media/student-time-management.svg": "/exam-portal-replica/static/media/student-time-management.7e36f5a6b035854eeec5e44004a18d9a.svg",
     "index.html": "/exam-portal-replica/index.html",
     "main.6388c5c6.css.map": "/exam-portal-replica/static/css/main.6388c5c6.css.map",
-    "main.43d3fd7b.js.map": "/exam-portal-replica/static/js/main.43d3fd7b.js.map"
+    "main.422479cd.js.map": "/exam-portal-replica/static/js/main.422479cd.js.map"
   },
   "entrypoints": [
     "static/css/main.6388c5c6.css",
-    "static/js/main.43d3fd7b.js"
+    "static/js/main.422479cd.js"
   ]
 }
